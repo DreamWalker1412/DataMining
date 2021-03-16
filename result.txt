@@ -1,0 +1,79 @@
+FrequentSet:['14984', '15202']
+Support: 0.10435
+['15202']->['14984']  Confidence: 0.42088
+
+FrequentSet:['14984', '14902']
+Support: 0.09803
+['14902']->['14984']  Confidence: 0.52024
+
+FrequentSet:['14984', '14867']
+Support: 0.09103
+['14867']->['14984']  Confidence: 0.32112
+
+FrequentSet:['14132', '14984']
+Support: 0.13612
+['14132']->['14984']  Confidence: 0.60082
+['14984']->['14132']  Confidence: 0.36348
+
+FrequentSet:['15190', '14220']
+Support: 0.09235
+['14220']->['15190']  Confidence: 0.48996
+
+FrequentSet:['15202', '15190']
+Support: 0.09926
+['15202']->['15190']  Confidence: 0.40035
+['15190']->['15202']  Confidence: 0.30069
+
+FrequentSet:['14132', '14902']
+Support: 0.07965
+['14132']->['14902']  Confidence: 0.35157
+['14902']->['14132']  Confidence: 0.42272
+
+FrequentSet:['15204', '15190']
+Support: 0.09682
+['15204']->['15190']  Confidence: 0.58382
+
+FrequentSet:['14984', '15190']
+Support: 0.14218
+['14984']->['15190']  Confidence: 0.37966
+['15190']->['14984']  Confidence: 0.43072
+
+FrequentSet:['15190', '14867']
+Support: 0.09288
+['14867']->['15190']  Confidence: 0.32766
+
+FrequentSet:['14922', '14984']
+Support: 0.08440
+['14922']->['14984']  Confidence: 0.62351
+
+FrequentSet:['14922', '15180']
+Support: 0.08601
+['14922']->['15180']  Confidence: 0.63540
+['15180']->['14922']  Confidence: 0.48310
+
+FrequentSet:['14984', '15180']
+Support: 0.09920
+['15180']->['14984']  Confidence: 0.55719
+
+FrequentSet:['14132', '15180']
+Support: 0.08122
+['14132']->['15180']  Confidence: 0.35850
+['15180']->['14132']  Confidence: 0.45621
+
+FrequentSet:['15200', '14984']
+Support: 0.07935
+['15200']->['14984']  Confidence: 0.56647
+
+FrequentSet:['14902', '15190']
+Support: 0.08745
+['14902']->['15190']  Confidence: 0.46410
+
+FrequentSet:['15190', '14197']
+Support: 0.12657
+['15190']->['14197']  Confidence: 0.38342
+['14197']->['15190']  Confidence: 0.59730
+
+FrequentSet:['14984', '14197']
+Support: 0.09201
+['14197']->['14984']  Confidence: 0.43422
+

@@ -1,2 +1,3 @@
 # DataMining
- Data mining with association rule 
+for "groceries.csv"：Use association rules to analyze a dataset collected from a month of real-world grocery store operations.
+
